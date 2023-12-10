@@ -1,0 +1,15 @@
+/Users/abc/Desktop/ProjectsTrining/day13.solution/day13/bin/Debug/net7.0/day13
+/Users/abc/Desktop/ProjectsTrining/day13.solution/day13/bin/Debug/net7.0/day13.deps.json
+/Users/abc/Desktop/ProjectsTrining/day13.solution/day13/bin/Debug/net7.0/day13.runtimeconfig.json
+/Users/abc/Desktop/ProjectsTrining/day13.solution/day13/bin/Debug/net7.0/day13.dll
+/Users/abc/Desktop/ProjectsTrining/day13.solution/day13/bin/Debug/net7.0/day13.pdb
+/Users/abc/Desktop/ProjectsTrining/day13.solution/day13/obj/Debug/net7.0/day13.csproj.AssemblyReference.cache
+/Users/abc/Desktop/ProjectsTrining/day13.solution/day13/obj/Debug/net7.0/day13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abc/Desktop/ProjectsTrining/day13.solution/day13/obj/Debug/net7.0/day13.AssemblyInfoInputs.cache
+/Users/abc/Desktop/ProjectsTrining/day13.solution/day13/obj/Debug/net7.0/day13.AssemblyInfo.cs
+/Users/abc/Desktop/ProjectsTrining/day13.solution/day13/obj/Debug/net7.0/day13.csproj.CoreCompileInputs.cache
+/Users/abc/Desktop/ProjectsTrining/day13.solution/day13/obj/Debug/net7.0/day13.dll
+/Users/abc/Desktop/ProjectsTrining/day13.solution/day13/obj/Debug/net7.0/refint/day13.dll
+/Users/abc/Desktop/ProjectsTrining/day13.solution/day13/obj/Debug/net7.0/day13.pdb
+/Users/abc/Desktop/ProjectsTrining/day13.solution/day13/obj/Debug/net7.0/day13.genruntimeconfig.cache
+/Users/abc/Desktop/ProjectsTrining/day13.solution/day13/obj/Debug/net7.0/ref/day13.dll
